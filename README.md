@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sujith Kumar</h1>
-<h3 align="center">👨‍💻 I'm a Software Engineer based in Bangalore, India.</h3>
+<h3 align="center">👨‍💻 I'm a Software Engineer based in Bangalore, India</h3>
 
 # 💫 About Me:
-<br>🌟 Everything that a computer does interests me.<br><br>🔧 I'm mostly into full-stack development these days.<br><br>🐧 I'm an avid GNU/Linux user.<br><br>💖 I love open-source.
+<br>🌟 Everything that a computer does interests me<br><br>🔧 I'm mostly into full-stack development these days<br><br>🐧 I'm an avid GNU/Linux user<br><br>💖 I love open-source
 
 
 # 🌐 Socials:
